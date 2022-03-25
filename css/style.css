@@ -1,0 +1,28 @@
+hr {
+border-style: none;
+border-top-style: groove;
+border-color: #4FBDBA;
+height: 0;
+width: 70%;
+border-width: 2px;
+}
+
+td {
+  color: #322A2E
+}
+
+h1 {
+  color: #4A4655
+}
+
+a {
+  color: blue
+}
+
+body {
+  background-color: #3CA0A1
+}
+
+hr {
+  color: black
+}
